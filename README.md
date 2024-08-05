@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/imgres?q=Linux%20cli&imgurl=https%3A%2F%2Fi0.wp.com%2Fwww.omglinux.com%2Fwp-content%2Fuploads%2F2023%2F03%2Fplease-cli-app.jpg%3Ffit%3D1250%252C656%26ssl%3D1&imgrefurl=https%3A%2F%2Fwww.omglinux.com%2Fplease-terminal-task-manager%2F&docid=zd-S4ca7o2c74M&tbnid=PpO6emsl1es7JM&vet=12ahUKEwiPiKGzuN6HAxUV3TgGHTzPFRYQM3oECDQQAA..i&w=1250&h=656&hcb=2&ved=2ahUKEwiPiKGzuN6HAxUV3TgGHTzPFRYQM3oECDQQAA)
+![alt text](https://www.google.com/imgres?q=Predator%20OS&imgurl=https%3A%2F%2Fpredator-os.ir%2Fwp-content%2Fuploads%2F2023%2F03%2F2.5.png&imgrefurl=https%3A%2F%2Fpredator-os.ir%2F&docid=4ypNLY4hGQM4JM&tbnid=2nDJsZMYG8WaHM&vet=12ahUKEwjw8ZzTuN6HAxVhxjgGHeQVPYoQM3oECBoQAA..i&w=1909&h=1080&hcb=2&ved=2ahUKEwjw8ZzTuN6HAxVhxjgGHeQVPYoQM3oECBoQAA)
 
 
 ## Hello there!! 👋
