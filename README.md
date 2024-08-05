@@ -20,3 +20,14 @@ Also have a keen interest on Networking, Data Analytics and System Security.
 
 👯 I’m also looking to collaborate on any projects that come in hand and down to learn the most efficient way of solving problems
 You can reach out to me via LinkedIn: https://www.linkedin.com/in/sa-ishaan-balaji-780285249?utm_source=share_via&utm_content=profile&utm_medium=android_app
+
+Platform and Language Preferences:
+    Hadoop, Linux(Ubuntu, Kali, Garuda, Fedora)
+    Markdown, HTML, CSS, JavaScript, Python, Java, C++, C, C#
+    Visual Studio Code, VITE, NANO
+
+Database Usage:
+  MySQL, MongoDB, DBSQLite
+
+Frameworks and Libraries:
+        Django, Flask(Basic), Bootstrap
