@@ -24,12 +24,13 @@ Also have a keen interest on Networking, Data Analytics and System Security.
 
 👯 I’m also looking to collaborate on any projects that come in hand and down to learn the most efficient way of solving problems
 <h3 align="left">Connect with me</h3>
+<ul>
 <p align="left">
-<a img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/sai-ishaan-balaji-780285249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
->LinkedIn</a><br/> <br/>
-  <a img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" href="www.DocDoom07@protonmail.com">Proton Mail</a>
-</p>
-
+<li><a img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/sai-ishaan-balaji-780285249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+>LinkedIn</a><br/></li> <br/>
+ <li> <a img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" href="www.DocDoom07@protonmail.com">Proton Mail</a>
+</p></li>
+</ul>
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
