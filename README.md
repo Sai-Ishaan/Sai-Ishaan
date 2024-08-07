@@ -40,7 +40,7 @@ Also have a keen interest on Networking, Data Analytics and System Security.
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PERL](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-
+![MarkDown](https://img.shields.io/badge/Markdown)
 ### Frameworks and Libraries
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
