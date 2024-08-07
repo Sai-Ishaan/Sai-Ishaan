@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"> <br/><br/>
 </header>
 
-###Hello there!! 👋
+Hello there!! 👋
 
 <!--
 **Sai-Ishaan/Sai-Ishaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
