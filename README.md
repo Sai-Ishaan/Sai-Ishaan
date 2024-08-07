@@ -28,7 +28,7 @@ Also have a keen interest on Networking, Data Analytics and System Security.
 <ul>
 <p align="left">
 <li><a img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/sai-ishaan-balaji-780285249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
->LinkedIn</a><br/></li> <br/>
+>LinkedIn</a><br/></li>
  <li> <a img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" href="www.DocDoom07@protonmail.com">Proton Mail</a>
 </li>
 <li><a img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/SHIVA_SAI_GANESH">Telegram</a></li>
