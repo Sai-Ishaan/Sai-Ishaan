@@ -52,3 +52,6 @@ Also have a keen interest on Networking, Data Analytics and System Security.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### Ongoing Major Projects and Repositories
+![Basic Linux System All-In-One GUI Package](https://github.com/users/Sai-Ishaan/projects/2)
+![Data Analytics Project](https://github.com/users/Sai-Ishaan/projects/1)
