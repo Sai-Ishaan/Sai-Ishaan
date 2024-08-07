@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 The name is Ishaan, a regular Linux Enthusiast, Django and Full Stack Developer and a full-time Student!!
-🔭 I’m currently working on several projects under the said domains, and working to constantly update and iterate as I learn and wander into the realm of Computer Science
-Also have a keen interest on Networking, Data Analytics and System Security. 
+🔭 I’m currently working on several projects under the said domains, and working to constantly update and iterate as I learn and wander into the realm of Computer Science.
+I also possess a keen interest on Networking, Data Analytics and System Security. 
 
 👯 I’m also looking to collaborate on any projects that come in hand and down to learn the most efficient way of solving problems
 <h3 align="left">Connect with me</h3>
