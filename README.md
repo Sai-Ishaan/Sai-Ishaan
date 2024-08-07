@@ -53,5 +53,7 @@ Also have a keen interest on Networking, Data Analytics and System Security.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Ongoing Major Projects and Repositories
-<a href="https://github.com/users/Sai-Ishaan/projects/2">Basic Linux All-In-One GUI Package</a>
-<a href="https://github.com/users/Sai-Ishaan/projects/1">Data Analytics Dashboard System</a>
+<ul>
+<li><a href="https://github.com/users/Sai-Ishaan/projects/2">Basic Linux All-In-One GUI Package</a></li>
+<li><a href="https://github.com/users/Sai-Ishaan/projects/1">Data Analytics Dashboard System</a></li>
+</ul>
