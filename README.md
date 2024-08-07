@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/imgres?q=Predator%20OS&imgurl=https%3A%2F%2Fpredator-os.ir%2Fwp-content%2Fuploads%2F2023%2F03%2F2.5.png&imgrefurl=https%3A%2F%2Fpredator-os.ir%2F&docid=4ypNLY4hGQM4JM&tbnid=2nDJsZMYG8WaHM&vet=12ahUKEwjw8ZzTuN6HAxVhxjgGHeQVPYoQM3oECBoQAA..i&w=1909&h=1080&hcb=2&ved=2ahUKEwjw8ZzTuN6HAxVhxjgGHeQVPYoQM3oECBoQAA)
+[![MasterHead](https://forum.garudalinux.org/uploads/default/original/3X/e/2/e2eb522f7a97ec27a43df0c3ac96e52239a90186.jpeg)(https://github.com/Sai-Ishaan)
 
 
 ## Hello there!! 👋
