@@ -1,55 +1,82 @@
-<header>
-<img align="right" alt="Coding" width="700" height="151" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"> <br/><br/>
-</header>
-<br/>
-<h1 align:center size: 45px>About me</h1>
-
-Hello there!! 👋
-
-The name is Ishaan, a regular Linux Enthusiast, Django and Full Stack Developer and a full-time Student!!
-🔭 I’m currently working on several projects under the said domains, and working to constantly update and iterate as I learn and wander into the realm of Computer Science.
-I also possess a keen interest on ANI, AGI, Networking, Data Analytics and System Security. 
-
-👯 I’m also looking to collaborate on any projects that come in hand and down to learn the most efficient way of solving problems
-<h3 align="left">Connect with me</h3>
-<ul>
-<p align="left">
-<li><a img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/sai-ishaan-balaji-780285249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
->LinkedIn</a><br/></li>
- <li> <a img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" href="joehank.vocalize742@passinbox.com">Mail:joehank.vocalize742@passinbox.com  </a>
-</li>
-<li><a img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/SHIVA_SAI_GANESH">Telegram</a></li>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding" width="700"/>
 </p>
-</ul>
 
-### Programming Languages
+<h1 align="center">Hi there! 👋 I'm Ishaan</h1>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PERL](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![MarkDown]
-### Frameworks and Libraries
+<p align="center">
+  <em>Linux Enthusiast | Full-Stack Developer | Student of Computer Science</em>
+</p>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask(Basic)](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-### Tools and Platforms
+---
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## About Me
 
-### Ongoing Major Projects and Repositories
-<ul>
-<li><a href="https://github.com/Sai-Ishaan/OpenEnv">A Small Demo Env for a Pokemon Game with PyTorch/OpenEnv: Project Pikachu</a></li>
-<li><a href="https://github.com/users/Sai-Ishaan/projects/2">Basic Linux All-In-One GUI Package</a></li>
-<li><a href="https://github.com/users/Sai-Ishaan/projects/1">Data Analytics Dashboard System</a></li>
-<li><a href="https://github.com/Sai-Ishaan/colony-collapse">Marooned: RL Environment Driven Social Game</a></li>
-</ul>
+I'm passionate about exploring the realms of Computer Science and actively building projects with Django, React, and more. I have interests spanning from Artificial Narrow Intelligence (ANI) to System Security, Data Analytics, and Networking. Currently juggling studies along with various development projects to sharpen my skills and contribute meaningfully.
+
+---
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sai-ishaan-balaji-780285249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joehank.vocalize742@passinbox.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/SHIVA_SAI_GANESH">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
+## Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+</p>
+
+---
+
+## Frameworks and Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+---
+
+## Tools and Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+</p>
+
+---
+
+## Ongoing Projects & Repositories
+
+- [Project Pikachu — Demo Env for Pokemon Game with PyTorch/OpenEnv](https://github.com/Sai-Ishaan/OpenEnv)  
+- [Basic Linux All-In-One GUI Package](https://github.com/users/Sai-Ishaan/projects/2)  
+- [Data Analytics Dashboard System](https://github.com/users/Sai-Ishaan/projects/1)  
+- [Marooned: RL Environment Driven Social Game](https://github.com/Sai-Ishaan/colony-collapse)  
+
+---
+
+Feel free to connect & collaborate! 🚀
