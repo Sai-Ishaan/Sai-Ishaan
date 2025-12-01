@@ -62,6 +62,8 @@ I also possess a keen interest on ANI, AGI, Networking, Data Analytics and Syste
 
 ### Ongoing Major Projects and Repositories
 <ul>
+<li><a href="https://github.com/Sai-Ishaan/OpenEnv">A Small Demo Env for a Pokemon Game with PyTorch/OpenEnv: Project Pikachu</a></li>
 <li><a href="https://github.com/users/Sai-Ishaan/projects/2">Basic Linux All-In-One GUI Package</a></li>
 <li><a href="https://github.com/users/Sai-Ishaan/projects/1">Data Analytics Dashboard System</a></li>
+<li><a href="https://github.com/Sai-Ishaan/colony-collapse">Marooned: RL Environment Driven Social Game</a></li>
 </ul>
