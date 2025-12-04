@@ -77,7 +77,8 @@ I'm passionate about exploring the realms of Computer Science and actively build
 ## Recent Achievments 
 <p>
 🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October-November 2025)
-- [MAROONED](https://github.com/atchudhansg/colony-collapse) — Multi-agent deception environment with LLM-guided reinforcement learning. Recognized for novel approach to emergent behavioral dynamics and teacher-guided learning architecture.
+- - [Marooned: RL Environment Driven Social Game](https://github.com/Sai-Ishaan/colony-collapse)  
+ — Multi-agent deception environment with LLM-guided reinforcement learning. Recognized for novel approach to emergent behavioral dynamics and teacher-guided learning architecture.
 
 Sponsored by: Unsloth • PyTorch • AMD
 </p>
