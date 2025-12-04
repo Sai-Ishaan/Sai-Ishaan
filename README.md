@@ -74,6 +74,14 @@ I'm passionate about exploring the realms of Computer Science and actively build
 
 ---
 
+## Recent Achievments 
+<p>
+🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October-November 2025)
+- [MAROONED](https://github.com/atchudhansg/colony-collapse) — Multi-agent deception environment with LLM-guided reinforcement learning. Recognized for novel approach to emergent behavioral dynamics and teacher-guided learning architecture.
+
+Sponsored by: Unsloth • PyTorch • AMD
+</p>
+
 ## Ongoing Projects & Repositories
 
 - [Project Pikachu — Demo Env for Pokemon Game with PyTorch/OpenEnv](https://github.com/Sai-Ishaan/OpenEnv)  
