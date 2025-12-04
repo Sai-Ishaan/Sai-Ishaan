@@ -77,7 +77,7 @@ I'm passionate about exploring the realms of Computer Science and actively build
 ## Recent Achievments 
 <p>
 🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October-November 2025)
-- - [Marooned: RL Environment Driven Social Game]([https://github.com/Sai-Ishaan/colony-collapse](https://maroon-demo.vercel.app/))  
+- - [Marooned: RL Environment Driven Social Game]((https://maroon-demo.vercel.app/)  
  — Multi-agent deception environment with LLM-guided reinforcement learning. Recognized for novel approach to emergent behavioral dynamics and teacher-guided learning architecture.
 
 Sponsored by: Unsloth • PyTorch • AMD
