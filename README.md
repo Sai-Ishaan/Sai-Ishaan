@@ -84,7 +84,7 @@ Sponsored by: Unsloth • PyTorch • AMD
 </p>
 
 ## Ongoing Projects & Repositories
-
+- [RL-RAG Pipeline for automated app developmemnt](https://github.com/Sai-Ishaan/RL-RAG)
 - [Project Pikachu — Demo Env for Pokemon Game with PyTorch/OpenEnv](https://github.com/Sai-Ishaan/OpenEnv)  
 - [Basic Linux All-In-One GUI Package](https://github.com/users/Sai-Ishaan/projects/2)  
 - [Data Analytics Dashboard System](https://github.com/users/Sai-Ishaan/projects/1)  
