@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm passionate about exploring the realms of Computer Science and actively building projects with Django, React, and more. I have interests spanning from Artificial Narrow Intelligence (ANI) to System Security, Data Analytics, and Networking. Currently juggling studies along with various development projects to sharpen my skills and contribute meaningfully.
+I'm passionate about exploring the realms of Computer Science and actively building projects with Django, React, and more. I have interests spanning from Artificial Narrow Intelligence (ANI) to Reinforcement Learning, from Domain-Centric to System Security, Data Analytics, and Networking. Currently juggling studies along with various development projects to sharpen my skills and contribute meaningfully.
 
 ---
 
