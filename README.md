@@ -1,13 +1,10 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding" width="700"/>
-</p>
-
 <h1 align="center">Hi there! 👋 I'm Ishaan</h1>
 
 <p align="center">
   <em>Engineer</em>
 </p>
 ---
+
 ## Recent Achievments 
 <p>
 🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October-November 2025)
@@ -17,6 +14,7 @@
 Sponsored by: Unsloth • PyTorch • AMD
 </p>
 ---
+
 ## Connect with Me
 
 <p align="left">
