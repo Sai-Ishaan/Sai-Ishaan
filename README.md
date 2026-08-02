@@ -5,15 +5,8 @@
 <h1 align="center">Hi there! 👋 I'm Ishaan</h1>
 
 <p align="center">
-  <em>Linux Enthusiast | Full-Stack Developer | Student of Computer Science</em>
+  <em>Engineer</em>
 </p>
-
----
-
-## About Me
-
-I'm passionate about exploring the realms of Computer Science and actively building projects with Django, React, and more. I have interests spanning from Artificial Narrow Intelligence (ANI) to Reinforcement Learning, from Domain-Centric to System Security, Data Analytics, and Networking. Currently juggling studies along with various development projects to sharpen my skills and contribute meaningfully.
-
 ---
 
 ## Connect with Me
@@ -24,9 +17,6 @@ I'm passionate about exploring the realms of Computer Science and actively build
   </a>
   <a href="mailto:joehank.vocalize742@passinbox.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/SHIVA_SAI_GANESH">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
@@ -59,7 +49,7 @@ I'm passionate about exploring the realms of Computer Science and actively build
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 ---
