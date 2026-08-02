@@ -8,7 +8,15 @@
   <em>Engineer</em>
 </p>
 ---
+## Recent Achievments 
+<p>
+🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October-November 2025)
+- - [Marooned: RL Environment Driven Social Game]((https://maroon-demo.vercel.app/)  
+ — Multi-agent deception environment with LLM-guided reinforcement learning. Recognized for novel approach to emergent behavioral dynamics and teacher-guided learning architecture.
 
+Sponsored by: Unsloth • PyTorch • AMD
+</p>
+---
 ## Connect with Me
 
 <p align="left">
@@ -63,15 +71,6 @@
 </p>
 
 ---
-
-## Recent Achievments 
-<p>
-🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October-November 2025)
-- - [Marooned: RL Environment Driven Social Game]((https://maroon-demo.vercel.app/)  
- — Multi-agent deception environment with LLM-guided reinforcement learning. Recognized for novel approach to emergent behavioral dynamics and teacher-guided learning architecture.
-
-Sponsored by: Unsloth • PyTorch • AMD
-</p>
 
 ## Ongoing Projects & Repositories
 - [RL-RAG Pipeline for automated app development](https://github.com/Sai-Ishaan/RL-RAG)
