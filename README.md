@@ -72,6 +72,7 @@ Sponsored by: Unsloth • PyTorch • AMD
 
 ## Ongoing Projects & Repositories
 - [RL-RAG Pipeline for automated app development](https://github.com/Sai-Ishaan/RL-RAG)
+- [Image RL Optimizer Toolkit](https://github.com/Sai-Ishaan/Image_RL_Optimizer)
 - [Project Pikachu — Demo Env for Pokemon Game with PyTorch/OpenEnv](https://github.com/Sai-Ishaan/OpenEnv)  
 - [Basic Linux All-In-One GUI Package](https://github.com/users/Sai-Ishaan/projects/2)  
 - [Marooned: RL Environment Driven Social Game](https://github.com/Sai-Ishaan/colony-collapse)  
