@@ -27,6 +27,18 @@ Sponsored by: Unsloth • PyTorch • AMD
 </p>
 
 ---
+## Publications and Research:
+ - [Evidence-Guided Local Code Generation and Repair] (doi.org/10.5281/zenodo.23833483)
+
+---
+## Ongoing Projects & Repositories
+- [RL-RAG Pipeline for automated app development](https://github.com/Sai-Ishaan/RL-RAG)
+- [Image RL Optimizer Toolkit](https://github.com/Sai-Ishaan/Image_RL_Optimizer)
+- [Project Pikachu — Demo Env for Pokemon Game with PyTorch/OpenEnv](https://github.com/Sai-Ishaan/OpenEnv)  
+- [Basic Linux All-In-One GUI Package](https://github.com/users/Sai-Ishaan/projects/2)  
+- [Marooned: RL Environment Driven Social Game](https://github.com/Sai-Ishaan/colony-collapse)  
+
+---
 
 ## Programming Languages
 
@@ -67,16 +79,6 @@ Sponsored by: Unsloth • PyTorch • AMD
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
 </p>
-
----
-
-## Ongoing Projects & Repositories
-- [RL-RAG Pipeline for automated app development](https://github.com/Sai-Ishaan/RL-RAG)
-- [Image RL Optimizer Toolkit](https://github.com/Sai-Ishaan/Image_RL_Optimizer)
-- [Project Pikachu — Demo Env for Pokemon Game with PyTorch/OpenEnv](https://github.com/Sai-Ishaan/OpenEnv)  
-- [Basic Linux All-In-One GUI Package](https://github.com/users/Sai-Ishaan/projects/2)  
-- [Marooned: RL Environment Driven Social Game](https://github.com/Sai-Ishaan/colony-collapse)  
-
 ---
 
 Feel free to connect & collaborate! 🚀
