@@ -28,7 +28,7 @@ Sponsored by: Unsloth • PyTorch • AMD
 
 ---
 ## Publications and Research:
- - [Evidence-Guided Local Code Generation and Repair](https://zenodo.org/records/23833483)
+ - [Evidence-Guided Local Code Generation and Repair](https://zenodo.org/records/24152047)
 
 ---
 ## Ongoing Projects & Repositories
